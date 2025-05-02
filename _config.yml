@@ -2,7 +2,7 @@ title: "Green to Code"
 description: "A blog about cloud, coding, security and other stuff"
 theme: "just-the-docs"
 
-url: "https://yourusername.github.io"  # or your custom domain
+url: "https://scottiepowell.github.io"  # or your custom domain
 baseurl: "/green-to-code-blog"         # repo name, or "" for custom domain
 
 # Optional settings for Just the Docs
@@ -10,7 +10,7 @@ search_enabled: true
 color_scheme: dark
 aux_links:
   "GitHub Repo":
-    - "//github.com/yourusername/green-to-code-blog"
+    - "//github.com/scottiepowell/green-to-code-blog"
 
 # Exclude GitHub Actions output
 exclude:
