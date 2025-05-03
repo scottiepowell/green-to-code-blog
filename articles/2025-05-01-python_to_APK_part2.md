@@ -6,8 +6,6 @@ author: "Scott Powell"
 tags: [EC2, pipeline, devops, GitHub Actions, Docker, Buildozer]
 ---
 
-# Ephemeral Pipeline: Configuring EC2 for Android Builds with Docker and Buildozer – Part 2
-
 > In this second installment, we configure our AWS EC2 instance to use Docker and Buildozer to compile Python code into Android APKs seamlessly.
 
 ## Introduction
