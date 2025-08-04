@@ -1,18 +1,17 @@
-title: "Green to Code"
-description: "A blog about cloud, coding, security and other stuff"
-theme: "just-the-docs"
+title:       "Green to Code"
+description: "A blog about cloud, coding, security and more"
+theme:       "just-the-docs"
 
-url: "https://scottiepowell.github.io"  # or your custom domain
-baseurl: "/green-to-code-blog"         # repo name, or "" for custom domain
+url:         "https://green-to-code-blog.roadmaps.link"
+baseurl:     ""    # No subfolder if using custom domain
 
-# Optional settings for Just the Docs
 search_enabled: true
-color_scheme: dark
+color_scheme:   dark
+
 aux_links:
   "GitHub Repo":
-    - "//github.com/scottiepowell/green-to-code-blog"
+    - "https://github.com/scottiepowell/green-to-code-blog"
 
-# Exclude GitHub Actions output
 exclude:
   - Gemfile
   - Gemfile.lock
