@@ -4,6 +4,8 @@ title: "Ephemeral Pipeline: Automated Teardown and Cost Optimization – Part 3"
 date: 2025-05-01
 author: "Scott Powell"
 tags: [EC2, pipeline, devops, GitHub Actions, Terraform, Cost Optimization]
+nav_order: 3
+parent: Articles
 ---
 
 # Ephemeral Pipeline: Automated Teardown and Cost Optimization – Part 3
