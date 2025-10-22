@@ -4,8 +4,9 @@ title: "Ephemeral Pipeline: Python to Android with GitHub Actions and AWS EC2 â€
 date: 2025-01-02
 author: "Scott Powell"
 tags: [EC2, pipeline, devops, GitHub Actions, Terraform]
-nav_order: 5
-parent: Articles
+nav_order: 1
+parent: Ephemeral Pipeline Series
+grand_parent: Articles
 ---
 
 # Ephemeral Pipeline: Python to Android with GitHub Actions and AWS EC2 â€“ Part 1
