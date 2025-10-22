@@ -175,7 +175,7 @@ With FreeIPA installed on AlmaLinux and configured for the `192.168.1.20/24` net
 Once published, this article will be available at:
 
 ```
-https://green-to-code-blog.example.com/articles/2025-05-05-installing-freeipa-on-alma-linux.html
+https://green-to-code-blog.roadmaps.link/articles/2025-05-05-installing-freeipa-on-alma-linux.html
 ```
 
 Replace the domain with your actual site URL if different.
