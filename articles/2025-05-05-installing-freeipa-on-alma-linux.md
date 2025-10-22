@@ -4,6 +4,8 @@ title: "How to Install a FreeIPA Server on AlmaLinux"
 date: 2025-05-05
 author: "Auto Writer"
 tags: [FreeIPA, AlmaLinux, Identity Management, Linux]
+nav_order: 2
+parent: Articles
 ---
 
 # How to Install a FreeIPA Server on AlmaLinux

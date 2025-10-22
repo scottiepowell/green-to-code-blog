@@ -4,6 +4,8 @@ title: "Locking Down FreeIPA Firewall Rules on AlmaLinux"
 date: 2025-05-06
 author: "Auto Writer"
 tags: [FreeIPA, AlmaLinux, Firewall, Security]
+nav_order: 1
+parent: Articles
 ---
 
 # Locking Down FreeIPA Firewall Rules on AlmaLinux
