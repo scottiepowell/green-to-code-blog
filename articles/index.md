@@ -23,3 +23,4 @@ Browse the full archive of Green to Code articles below.
 - [Locking Down FreeIPA Firewall Rules on AlmaLinux](./2025-05-06-freeipa-firewall-hardening)
 - [From Allow-All to Least Privilege: FreeIPA HBAC Step-by-Step](./2025-05-07-freeipa-hbac-least-privilege)
 - [Centralizing Sudo with FreeIPA and SSSD](./2025-05-08-centralized-sudo-with-freeipa-and-sssd)
+- [Hardening Password and Lockout Policies in FreeIPA](./2025-05-09-freeipa-password-lockout-policies)
