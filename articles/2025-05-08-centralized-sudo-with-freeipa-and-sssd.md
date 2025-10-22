@@ -4,7 +4,7 @@ title: "Centralizing Sudo with FreeIPA and SSSD"
 date: 2025-05-08
 author: "Auto Writer"
 tags: [FreeIPA, SSSD, Sudo, Identity Management]
-nav_order: 1
+nav_order: 5
 parent: Articles
 ---
 

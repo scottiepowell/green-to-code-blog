@@ -4,7 +4,7 @@ title: "From Allow-All to Least Privilege: FreeIPA HBAC Step-by-Step"
 date: 2025-05-07
 author: "Auto Writer"
 tags: [FreeIPA, HBAC, Security, SSH]
-nav_order: 1
+nav_order: 4
 parent: Articles
 ---
 
