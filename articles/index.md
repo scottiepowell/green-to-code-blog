@@ -27,3 +27,4 @@ Browse the full archive of Green to Code articles below.
 - [Centralizing Sudo with FreeIPA and SSSD](./2025-05-08-centralized-sudo-with-freeipa-and-sssd)
 - [Hardening Password and Lockout Policies in FreeIPA](./2025-05-09-freeipa-password-lockout-policies)
 - [Kerberos 101 in FreeIPA](./2025-05-11-kerberos-101-in-freeipa)
+- [5Ws of Apache/Nginx SPNEGO in FreeIPA](./2025-05-12-spnego-5ws-in-freeipa)
