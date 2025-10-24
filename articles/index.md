@@ -28,3 +28,4 @@ Browse the full archive of Green to Code articles below.
   - [5Ws of Apache/Nginx SPNEGO in FreeIPA](./2025-05-12-spnego-5ws-in-freeipa)
   - [Kerberos SSH with GSSAPI — FreeIPA Integration on Roadmaps.link](./2025-05-13-kerberos-ssh-gssapi-freeipa-roadmaps-link)
   - [NFSv4 with Kerberos and FreeIPA in the ROADMAPS.LINK Environment](./2025-05-14-nfsv4-kerberos-freeipa-roadmaps-link)
+  - [OTP / 2-Factor Authentication (2FA) for SSH in the ROADMAPS.LINK Environment](./2025-05-15-otp-2fa-ssh-freeipa-roadmaps-link)
