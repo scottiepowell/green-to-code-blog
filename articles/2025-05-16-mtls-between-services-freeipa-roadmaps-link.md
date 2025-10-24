@@ -5,7 +5,6 @@ layout: article
 parent: The IPA Series
 grand_parent: Articles
 color_scheme: dark
-summary: "Issue, deploy, and rotate FreeIPA certificates to enforce mutual TLS across ROADMAPS.LINK microservices, message brokers, and APIs."
 tags:
   - mtls
   - tls
