@@ -1,0 +1,9 @@
+body.layout--article {
+  background-color: var(--body-background) !important;
+}
+
+body.layout--article .page,
+body.layout--article main,
+body.layout--article .main-content {
+  background-color: inherit !important;
+}

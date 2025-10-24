@@ -7,6 +7,7 @@ tags: [EC2, pipeline, devops, GitHub Actions, Terraform, Cost Optimization]
 nav_order: 3
 parent: Ephemeral Pipeline Series
 grand_parent: Articles
+permalink: /articles/2025-05-01-python_to_APK_part3
 ---
 
 # Ephemeral Pipeline: Automated Teardown and Cost Optimization – Part 3
@@ -19,7 +20,7 @@ Previously, we set up an ephemeral AWS EC2 infrastructure (Part 1) and configure
 
 In this final segment, we'll demonstrate how Terraform's destroy command can seamlessly remove the EC2 resources once the build process is complete, ensuring a clean, optimized, and secure workflow.
 
-![Terraform Teardown Flow](../pic/python_to_APK_part3.png)
+![Terraform Teardown Flow](../../pic/python_to_APK_part3.png)
 
 ## Key Points
 

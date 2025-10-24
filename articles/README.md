@@ -36,6 +36,7 @@ Covering joiner, mover, and leaver workflows, the article uses staged users, nes
 ## Kerberos 101 in FreeIPA
 A quick-reference primer on Kerberos fundamentals, this piece reviews ticket concepts, a minimal `krb5.conf`, chrony setup, essential CLI commands, and common troubleshooting patterns that underpin FreeIPA single sign-on. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-11-kerberos-101-in-freeipa.html).
 
+
 ## The 5Ws of SPNEGO in FreeIPA
 Framed around who, what, when, where, and why, this explainer breaks down how FreeIPA leverages SPNEGO for web single sign-on, mapping browser negotiations to service principals, and highlighting the configuration flags that keep Kerberos-backed auth flows reliable. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-12-spnego-5ws-in-freeipa.html).
 

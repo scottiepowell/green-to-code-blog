@@ -5,7 +5,8 @@ date: 2025-05-09
 author: "Auto Writer"
 tags: [FreeIPA, Security, Password Policy, Identity Management]
 nav_order: 6
-parent: Articles
+parent: The IPA Series
+grand_parent: Articles
 ---
 
 # Hardening Password and Lockout Policies in FreeIPA
