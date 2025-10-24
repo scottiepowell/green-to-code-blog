@@ -1,17 +1,17 @@
 ---
+layout: post
 title: "Mutual TLS (mTLS) Between Services in the ROADMAPS.LINK Environment"
 date: 2025-05-16
-layout: article
+author: "Auto Writer"
+tags: [FreeIPA, Certificates, TLS, mTLS, ROADMAPS.LINK]
+nav_order: 13
 parent: The IPA Series
 grand_parent: Articles
-color_scheme: dark
-tags:
-  - mtls
-  - tls
-  - freeipa
-  - certificates
-  - roadmaps-link
 ---
+
+# Mutual TLS (mTLS) Between Services in the ROADMAPS.LINK Environment
+
+> Extend FreeIPA-issued trust to every internal service call so ROADMAPS.LINK workloads authenticate each other with mutual TLS before exchanging data.
 
 ## Why Mutual TLS Matters for ROADMAPS.LINK
 
@@ -110,4 +110,5 @@ Mutual TLS completes the identity story for ROADMAPS.LINK: the same FreeIPA CA t
 
 - [Mutual TLS (mTLS) Between Services in the ROADMAPS.LINK Environment](/articles/2025-05-16-mtls-between-services-freeipa-roadmaps-link)
 - Continue exploring the [IPA Series](/articles/the-ipa/).
+- [OTP / 2-Factor Authentication (2FA) for SSH in the ROADMAPS.LINK Environment](https://green-to-code-blog.roadmaps.link/articles/2025-05-15-otp-2fa-ssh-freeipa-roadmaps-link.html)
 
