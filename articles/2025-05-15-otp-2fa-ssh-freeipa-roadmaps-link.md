@@ -1,16 +1,17 @@
 ---
+layout: post
 title: "OTP / 2-Factor Authentication (2FA) for SSH in the ROADMAPS.LINK Environment"
 date: 2025-05-15
-layout: article
+author: "Auto Writer"
+tags: [FreeIPA, OTP, 2FA, SSH, ROADMAPS.LINK]
+nav_order: 12
 parent: The IPA Series
 grand_parent: Articles
-tags:
-  - otp
-  - 2fa
-  - ssh
-  - freeipa
-  - roadmaps-link
 ---
+
+# OTP / 2-Factor Authentication (2FA) for SSH in the ROADMAPS.LINK Environment
+
+> Issue FreeIPA-backed one-time passwords so SSH logins across ROADMAPS.LINK require strong, multi-factor assurance without relying on third-party identity providers.
 
 ## Overview
 
