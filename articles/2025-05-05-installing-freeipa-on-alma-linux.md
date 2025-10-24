@@ -5,7 +5,8 @@ date: 2025-05-05
 author: "Auto Writer"
 tags: [FreeIPA, AlmaLinux, Identity Management, Linux]
 nav_order: 2
-parent: Articles
+parent: The IPA Series
+grand_parent: Articles
 ---
 
 # How to Install a FreeIPA Server on AlmaLinux

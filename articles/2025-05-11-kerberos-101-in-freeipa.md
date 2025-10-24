@@ -5,7 +5,7 @@ date: 2025-05-11
 author: "Auto Writer"
 tags: [FreeIPA, Kerberos, Authentication]
 nav_order: 1
-parent: The IPA
+parent: The IPA Series
 grand_parent: Articles
 ---
 

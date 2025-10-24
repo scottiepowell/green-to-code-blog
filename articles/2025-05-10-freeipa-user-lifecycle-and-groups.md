@@ -5,7 +5,8 @@ date: 2025-05-10
 author: "Auto Writer"
 tags: [FreeIPA, Identity Management, Automation, POSIX]
 nav_order: 7
-parent: Articles
+parent: The IPA Series
+grand_parent: Articles
 ---
 
 # Orchestrating FreeIPA User Lifecycles and Group Structures
