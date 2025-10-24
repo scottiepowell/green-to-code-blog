@@ -16,7 +16,7 @@ Browse the full archive of Green to Code articles below.
 - [Ephemeral Pipeline Series](./ephemeral-pipeline/)
   - [Part 1 – Python to Android with GitHub Actions and AWS EC2](./2025-05-01-python_to_APK_part1)
   - [Part 2 – Configuring EC2 for Android Builds with Docker and Buildozer](./2025-05-01-python_to_APK_part2)
-  - [Part 3 – Automated Teardown and Cost Optimization](./2025-05-01-python_to_APK_part3)
+  - [Part 3 – Automated Teardown and Cost Optimization](./ephemeral-pipeline/2025-05-01-python_to_APK_part3)
 - [The IPA Series](./the-ipa/)
   - [How to Install a FreeIPA Server on AlmaLinux](./2025-05-05-installing-freeipa-on-alma-linux)
   - [Locking Down FreeIPA Firewall Rules on AlmaLinux](./2025-05-06-freeipa-firewall-hardening)
@@ -29,3 +29,4 @@ Browse the full archive of Green to Code articles below.
   - [Kerberos SSH with GSSAPI — FreeIPA Integration on Roadmaps.link](./2025-05-13-kerberos-ssh-gssapi-freeipa-roadmaps-link)
   - [NFSv4 with Kerberos and FreeIPA in the ROADMAPS.LINK Environment](./2025-05-14-nfsv4-kerberos-freeipa-roadmaps-link)
   - [OTP / 2-Factor Authentication (2FA) for SSH in the ROADMAPS.LINK Environment](./2025-05-15-otp-2fa-ssh-freeipa-roadmaps-link)
+  - [Host & Service Certificates via certmonger (IPA CA + certmonger)](./2025-05-16-host-service-certificates-certmonger)

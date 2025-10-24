@@ -1,17 +1,17 @@
 ---
-layout: post
 title: "OTP / 2-Factor Authentication (2FA) for SSH in the ROADMAPS.LINK Environment"
 date: 2025-05-15
-author: "Auto Writer"
-tags: [FreeIPA, OTP, SSH, 2FA]
-nav_order: 4
+layout: article
 parent: The IPA Series
 grand_parent: Articles
+summary: "Enforce SSH multi-factor authentication with FreeIPA-issued TOTP tokens and native SSSD/PAM integration across ROADMAPS.LINK servers."
+tags:
+  - otp
+  - 2fa
+  - ssh
+  - freeipa
+  - roadmaps-link
 ---
-
-# OTP / 2-Factor Authentication (2FA) for SSH in the ROADMAPS.LINK Environment
-
-> Enforce SSH multi-factor authentication with FreeIPA-issued TOTP tokens and native SSSD/PAM integration across ROADMAPS.LINK servers.
 
 ## Overview
 
@@ -151,7 +151,3 @@ FreeIPA’s Kerberos (`krb5kdc`) and HTTPD logs also record OTP validation detai
 ## Final Thought
 
 Integrating FreeIPA-issued OTP tokens into SSH hardens the ROADMAPS.LINK fleet without outsourcing identity to third parties. Administrators gain centralized control over who must use 2FA, while users benefit from a consistent experience that keeps privileged access both secure and streamlined.
-
----
-
-[Read the article on green-to-code-blog.roadmaps.link](https://green-to-code-blog.roadmaps.link/articles/2025-05-15-otp-2fa-ssh-freeipa-roadmaps-link.html)

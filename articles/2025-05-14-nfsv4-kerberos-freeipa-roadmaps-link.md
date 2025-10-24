@@ -1,16 +1,17 @@
 ---
+layout: post
 title: "NFSv4 with Kerberos and FreeIPA in the ROADMAPS.LINK Environment"
 date: 2025-05-14
-layout: article
-parent: The IPA Series
+author: "Auto Writer"
+tags: [NFS, Kerberos, FreeIPA, ROADMAPS.LINK]
+nav_order: 4
+parent: The IPA
 grand_parent: Articles
-summary: "Implement NFSv4 with Kerberos-backed authentication, integrity, and privacy using FreeIPA across the ROADMAPS.LINK infrastructure."
-tags:
-  - nfs
-  - kerberos
-  - freeipa
-  - roadmaps-link
 ---
+
+# NFSv4 with Kerberos and FreeIPA in the ROADMAPS.LINK Environment
+
+> Deploy a FreeIPA-backed Kerberos realm for NFSv4 so that every file share mount, read, and write in ROADMAPS.LINK is cryptographically authenticated, optionally integrity-protected, and encrypted.
 
 ## Overview
 
@@ -142,5 +143,5 @@ Matching ownership and group metadata demonstrates that SSSD, idmapd, and Kerber
 
 Deploying NFSv4 with Kerberos inside ROADMAPS.LINK elevates file sharing from best effort to security-first. Selecting the appropriate `sec=` level gives you precise control over authentication, integrity, and privacy, while FreeIPA centralizes policy management for both users and systems. The result is a scalable, auditable, and compliant storage fabric that empowers multi-host collaboration without sacrificing control.
 
-[Read the full article on NFSv4 with Kerberos in the ROADMAPS.LINK environment](https://roadmaps.link/articles/nfsv4-kerberos-freeipa-roadmaps-link)
+[Read the full article on NFSv4 with Kerberos in the ROADMAPS.LINK environment](https://green-to-code-blog.roadmaps.link/articles/2025-05-14-nfsv4-kerberos-freeipa-roadmaps-link)
 
