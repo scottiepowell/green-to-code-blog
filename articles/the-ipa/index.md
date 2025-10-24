@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The IPA"
+title: "The IPA Series"
 nav_order: 2
 parent: Articles
 has_children: true

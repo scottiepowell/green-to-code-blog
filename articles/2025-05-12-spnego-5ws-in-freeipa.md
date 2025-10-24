@@ -5,7 +5,7 @@ date: 2025-05-12
 author: "Auto Writer"
 tags: [FreeIPA, SPNEGO, Kerberos, Apache, Nginx]
 nav_order: 2
-parent: The IPA
+parent: The IPA Series
 grand_parent: Articles
 ---
 
