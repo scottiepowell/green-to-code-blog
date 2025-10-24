@@ -35,3 +35,25 @@ Covering joiner, mover, and leaver workflows, the article uses staged users, nes
 
 ## Kerberos 101 in FreeIPA
 A quick-reference primer on Kerberos fundamentals, this piece reviews ticket concepts, a minimal `krb5.conf`, chrony setup, essential CLI commands, and common troubleshooting patterns that underpin FreeIPA single sign-on. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-11-kerberos-101-in-freeipa.html).
+
+
+## The 5Ws of SPNEGO in FreeIPA
+Framed around who, what, when, where, and why, this explainer breaks down how FreeIPA leverages SPNEGO for web single sign-on, mapping browser negotiations to service principals, and highlighting the configuration flags that keep Kerberos-backed auth flows reliable. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-12-spnego-5ws-in-freeipa.html).
+
+## Passwordless SSH with Kerberos and GSSAPI in FreeIPA
+Stepping beyond key pairs, this guide shows how to enroll hosts, enable GSSAPI authentication, and tune sshd and SSSD policies so administrators can log in over SSH using Kerberos tickets issued by FreeIPA without ever touching a password prompt. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-13-kerberos-ssh-gssapi-freeipa-roadmaps-link.html).
+
+## Securing NFSv4 Shares with FreeIPA and Kerberos
+By pairing FreeIPA-issued service principals with NFSv4 exports, the walkthrough covers idmapd tuning, mount options, and ACL validation so shared storage inherits Kerberos integrity and encryption guarantees across Linux clients. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-14-nfsv4-kerberos-freeipa-roadmaps-link.html).
+
+## Enforcing OTP-Based SSH Access with FreeIPA
+Focused on two-factor controls, this article adds FreeIPA OTP tokens to user accounts, configures `sshd` and SSSD for interactive prompts, and demonstrates fallback policies so you can require hardware or software OTP codes for privileged SSH logins. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-15-otp-2fa-ssh-freeipa-roadmaps-link.html).
+
+## Automating Certificate Issuance with FreeIPA ACME
+This tutorial enables FreeIPA's ACME responder, registers clients, and scripts renewals so workloads can request publicly trusted-style certificates on demand without manual CSR handling or downtime. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-16-freeipa-acme-automation-roadmaps-link.html).
+
+## Managing Host and Service Certificates with Certmonger
+Covering certmonger from enrollment to renewal, the post walks through tracking IPA certificates for hosts and services, setting key storage policies, and scripting `getcert` commands to keep TLS assets evergreen. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-16-host-service-certificates-certmonger.html).
+
+## Building mTLS Between Services with FreeIPA
+To secure service-to-service traffic, this entry issues role-specific certificates from FreeIPA, distributes trust stores, and configures mutual TLS handshakes so internal APIs authenticate both clients and servers automatically. [Read the article](https://green-to-code-blog.roadmaps.link/articles/2025-05-16-mtls-between-services-freeipa-roadmaps-link.html).
