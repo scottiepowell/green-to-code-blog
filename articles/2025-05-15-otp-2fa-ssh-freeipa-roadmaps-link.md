@@ -4,7 +4,6 @@ date: 2025-05-15
 layout: article
 parent: The IPA Series
 grand_parent: Articles
-summary: "Enforce SSH multi-factor authentication with FreeIPA-issued TOTP tokens and native SSSD/PAM integration across ROADMAPS.LINK servers."
 tags:
   - otp
   - 2fa
