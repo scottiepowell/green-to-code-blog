@@ -5,7 +5,7 @@ date: 2025-05-13
 author: "Auto Writer"
 tags: [FreeIPA, Kerberos, SSH, GSSAPI]
 nav_order: 3
-parent: The IPA
+parent: The IPA Series
 grand_parent: Articles
 ---
 

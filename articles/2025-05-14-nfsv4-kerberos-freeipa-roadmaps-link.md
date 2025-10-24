@@ -2,6 +2,8 @@
 title: "NFSv4 with Kerberos and FreeIPA in the ROADMAPS.LINK Environment"
 date: 2025-05-14
 layout: article
+parent: The IPA Series
+grand_parent: Articles
 summary: "Implement NFSv4 with Kerberos-backed authentication, integrity, and privacy using FreeIPA across the ROADMAPS.LINK infrastructure."
 tags:
   - nfs
