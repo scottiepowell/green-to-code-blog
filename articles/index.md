@@ -31,3 +31,5 @@ Browse the full archive of Green to Code articles below.
   - [OTP / 2-Factor Authentication (2FA) for SSH in the ROADMAPS.LINK Environment](./2025-05-15-otp-2fa-ssh-freeipa-roadmaps-link)
   - [Mutual TLS (mTLS) Between Services in the ROADMAPS.LINK Environment](./2025-05-16-mtls-between-services-freeipa-roadmaps-link)
   - [Host & Service Certificates via certmonger (IPA CA + certmonger)](./2025-05-16-host-service-certificates-certmonger)
+- [RHEL System Admin Labs](./rhel-system-admin-labs/)
+  - [Lab Exercise — Repository Troubleshooting on RHEL](./2025-05-17-rhel-repository-troubleshooting)
