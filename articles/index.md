@@ -33,3 +33,5 @@ Browse the full archive of Green to Code articles below.
   - [Host & Service Certificates via certmonger (IPA CA + certmonger)](./2025-05-16-host-service-certificates-certmonger)
 - [RHEL System Admin Labs](./rhel-system-admin-labs/)
   - [Lab Exercise — Repository Troubleshooting on RHEL](./2025-05-17-rhel-repository-troubleshooting)
+- [Red Hat Ansible](./red-hat-ansible/)
+  - [Lab Exercise — Installing Red Hat Ansible Automation on RHEL](./2025-05-18-install-ansible-on-rhel)
