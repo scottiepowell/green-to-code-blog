@@ -13,18 +13,17 @@ in the IT field.
 
 Here are a few recent or highlighted posts:
 
-- [NIST Cybersecurity Framework 2.0 – A Practical Overview](./articles/2024-04-26-nist.md)
-- [Zero Trust Architecture: Concepts and Application](./articles/2024-04-18-zero-trust.md)
-- [Using Frida for Security Research](./articles/2024-03-05-frida-cve-analysis.md)
+- [Lab Exercise — Installing Red Hat Ansible Automation on RHEL](./articles/2025-05-18-install-ansible-on-rhel)
+- [Lab Exercise — Repository Troubleshooting on RHEL](./articles/2025-05-17-rhel-repository-troubleshooting)
+- [Mutual TLS (mTLS) Between Services in the ROADMAPS.LINK Environment](./articles/2025-05-16-mtls-between-services-freeipa-roadmaps-link)
 
 > 💡 All content is version-controlled via Git for transparency and timestamping.
 
-## 📊 Top 3 Articles (Based on Analytics)
+## 🎲 Random Articles From the Archive
 
-<!-- Manually update these monthly using Google Analytics or Plausible dashboard insights -->
-- [Zero Trust Architecture](./articles/2024-04-18-zero-trust.md)
-- [Using Frida for Security Research](./articles/2024-03-05-frida-cve-analysis.md)
-- [Cloud Threat Modeling Simplified](./articles/2024-03-22-cloud-threat-modeling.md)
+- [Kerberos SSH with GSSAPI — FreeIPA Integration on Roadmaps.link](./articles/2025-05-13-kerberos-ssh-gssapi-freeipa-roadmaps-link)
+- [Centralizing Sudo with FreeIPA and SSSD](./articles/2025-05-08-centralized-sudo-with-freeipa-and-sssd)
+- [Part 2 – Configuring EC2 for Android Builds with Docker and Buildozer](./articles/2025-05-01-python_to_APK_part2)
 
 ## 🧰 About This Site
 
